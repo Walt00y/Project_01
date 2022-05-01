@@ -1,8 +1,6 @@
 # Project_01
-## Moniter platform
-
 -------------------------------------------------------------
-### Atmospheric Environment Intelligent Monitoring System
+## Atmospheric Environment Intelligent Monitoring System
 
 The system covers eight main functions, which are
 * Login
@@ -15,6 +13,7 @@ The system covers eight main functions, which are
 * Distribution of Pollution Sources
 
 Next, I will explain one by one.
+
 -------------------------------------------------------------
 
 #### Login
