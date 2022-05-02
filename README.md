@@ -182,3 +182,4 @@ The notification bulletin board can roll out announcements that are allowed to b
 ![Announcement](https://github.com/Walt00y/Project_01/blob/main/pic/Monitoring_platform_showall.png "Announcement")
 
 -------------------------------------------------------------
+# All plagiarism means such as downloading, forwarding, etc. are strictly prohibited without permission.
